@@ -1,0 +1,13 @@
+# PyInstaller build and distribution caches
+build/
+dist/
+
+# Python execution caches
+__pycache__/
+*.pyc
+
+# Local data or user databases (if applicable)
+data/
+
+# --- Private Files ---
+keygen.py
